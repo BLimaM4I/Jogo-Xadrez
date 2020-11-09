@@ -41,10 +41,3 @@ public class ChessPosition {
     return "" + column + row;
   }
 }
-  }
-
-  @Override
-  public String toString() {
-    return "" + column + row;
-  }
-}
